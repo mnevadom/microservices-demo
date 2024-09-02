@@ -12,7 +12,7 @@ A demo application with Java, Go, Javascript, Kafka and PostgresQL.
 * A [PostgresQL](https://bitnami.com/stack/postgresql/helm) database
 * A [Node.js](/result) webapp which shows the results of the voting in real time
 
-## Run the demo application in Okteto
+## Run the demo application in Oktetoo
 
 ```
 $ git clone https://github.com/okteto/microservices-demo
